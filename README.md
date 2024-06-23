@@ -10,3 +10,18 @@ Para começar a utilizar o Vue 3 em seu projeto, siga os passos abaixo:
 
    ```html
    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+## instalando o Vue CLI
+
+1. **Instale o Node.js**
+
+   Link para dowload: https://nodejs.org/en/
+
+2. **Executar o comando de instalação**
+
+   npm install -g @vue/cli - instala o pacote de forma global
+
+   criar o projeto se ultiliza os seguintes comandos - vue create nome do 
+   
+   em seguida na opção configuração seleçionar 'Manually select features' e seleçionar as opçoes desejadada
+   escolher a versão do vue
